@@ -1,5 +1,3 @@
-# MIS500-Critical-Thinking-2
-Tools (Write an Article on R, SAS, &amp; Python Comparison in MS Word)
 
 You are employed as a senior data analyst at a top leading U.S data analytics corporation. Your director would like your department to use a different set of data tools. The only three tools that she is interested in are R-Studio, SAS Studio, and Python Edu IDEs.
 
@@ -21,5 +19,5 @@ Your submission must meet the following requirements:
 Be two to three pages, in addition to the title and reference pages
 Include a brief comparative description for each tool under each of the sections listed above.
 Cite two to three scholarly sources in support of your assertions
-Be formatted according to the CSU-Global Guide to Writing and APA (Links to an external site.)
-(Optional) Upload your paper to GitHub Account.
+
+
